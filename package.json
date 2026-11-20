@@ -1,6 +1,6 @@
 {
     "name": "@maxpaulus/pi-usage",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "/usage command for pi: Claude Code and OpenAI Codex subscription limits",
     "type": "module",
     "keywords": [
